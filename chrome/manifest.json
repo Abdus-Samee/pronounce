@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Pronounce",
+    "description": "My First Chrome Extension built based on the API of Merriam-Webster dictionary. It shows the word pronounciation along with an audio and its parts of speech",
+    "version": "1.0",
+    "icons": {
+        "48": "main-icon48.png"
+    },
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "main-icon48.png"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
