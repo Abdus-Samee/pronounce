@@ -20,3 +20,5 @@ It uses the Merriam-Webster api to show the pronounciation, parts of speech and 
 - Parts of speech
 - Phonetic pronounciation
 - Audio of pronounciation
+- Synonyms of the word
+- Definition of the word
